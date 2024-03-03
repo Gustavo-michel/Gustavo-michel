@@ -20,14 +20,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<div align="left">
-  <a href="www.linkedin.com/in/gustavo-michel-araujo-de-sousa-248578264" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="gustavomichelads@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Gustavo-michel&icon=0&color=12)](https://visitcount.itsvg.in)
 
