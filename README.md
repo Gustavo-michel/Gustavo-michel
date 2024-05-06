@@ -34,6 +34,6 @@
 
 Old repository: [https://github.com/Gustavomichel]
 
-Contatos:
-Celular: 11 99434-5046
+## Contatos:
+Celular: 11 99434-5046 <br>
 Email: Gustavomichelads@gmail.com
