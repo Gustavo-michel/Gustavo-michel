@@ -29,7 +29,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 Portfólio Data Science: https://gustavomichel.netlify.app/
 ---
 [![](https://visitcount.itsvg.in/api?id=Gustavo-michel&icon=0&color=12)](https://visitcount.itsvg.in)
@@ -37,5 +37,5 @@ Portfólio Data Science: https://gustavomichel.netlify.app/
 ## Contatos:
 Celular: 11 99434-5046 <br>
 Email: Gustavomichelads@gmail.com
-
+---
 Old repository: [https://github.com/Gustavomichel]
