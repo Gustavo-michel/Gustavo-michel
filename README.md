@@ -34,7 +34,7 @@ Portfólio Data Science: https://gustavomichel.netlify.app/
 ---
 [![](https://visitcount.itsvg.in/api?id=Gustavo-michel&icon=0&color=12)](https://visitcount.itsvg.in)
 
-## Contatos:
+# Contatos:
 Celular: 11 99434-5046 <br>
 Email: Gustavomichelads@gmail.com
 ---
