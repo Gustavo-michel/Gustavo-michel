@@ -1,6 +1,3 @@
-<h1 align="center">Olá 👋, sou Gustavo Michel</h1>
-
-
 # 💻 Tecnologias:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" />  
