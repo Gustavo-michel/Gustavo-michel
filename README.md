@@ -26,7 +26,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 👨‍💻Portfólio(Site): https://gustavomichel.netlify.app/
+# 👨‍💻Portfólio(Site): [https://gustavomichel.netlify.app/](https://gustavomichel.vercel.app/)
 
 # 📞 Contatos:
 Celular: 11 99434-5046 <br>
