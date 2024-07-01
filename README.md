@@ -29,10 +29,11 @@
 # 👨‍💻Portfólio(Site): [https://gustavomichel.netlify.app/](https://gustavomichel.vercel.app/)
 
 # 📞 Contatos:
-Celular: 11 99434-5046 <br>
+Celular: +55 (11) 99434-5046 <br>
 Email: Gustavomichelads@gmail.com
----
 
+
+#
 Old repository: [https://github.com/Gustavomichel]
 
 [![](https://visitcount.itsvg.in/api?id=Gustavo-michel&icon=0&color=12)](https://visitcount.itsvg.in)
