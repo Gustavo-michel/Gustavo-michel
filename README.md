@@ -36,10 +36,10 @@ Visite meu site: [https://gustavomichel.vercel.app/](https://gustavomichel.verce
 ## 📞 Contatos
 - 📱 Celular: +55 (11) 99434-5046
 - 📧 Email: Gustavomichelads@gmail.com
-- 💼 [LinkedIn](seu-linkedin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-michel-araujo/)
 
 ## 🔗 Links Adicionais
-- 📊 [Kaggle](seu-perfil-kaggle)
+- 📊 [Kaggle](https://www.kaggle.com/gustavomichel)
 - 🧪 Repositório antigo: [https://github.com/Gustavomichel](https://github.com/Gustavomichel)
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Gustavo-michel&icon=0&color=12)
