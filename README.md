@@ -31,10 +31,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 👨‍💻 Portfólio
-Visite meu site: [https://gustavomichel.vercel.app/](https://gustavomichel.vercel.app/)
+site: [https://gustavomichel.vercel.app/](https://gustavomichel.vercel.app/)
 
 ## 📞 Contatos
-- 📱 Celular: +55 (11) 99434-5046
+- 📱 Telefone: +55 (11) 99434-5046
 - 📧 Email: Gustavomichelads@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-michel-araujo/)
 
