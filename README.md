@@ -1,39 +1,45 @@
-# 💻 Tecnologias:
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Sou+Gustavo+Michel!;" />
+</h1>
+<h3 align="center">Desenvolvedor de Software | IA & Machine Learning</h3>
+<br/>
+
+## 💻 Tecnologias
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="SQL logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="Azure SQL Database"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="45" alt="Pandas logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="45" alt="Pandas"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" height="40" alt="NumPy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" height="40" alt="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="Azure logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="Azure"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter logo"  /> 
-  <img width="12" />
-<!--   <img src=https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" height="30" alt="kaggle logo"  /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" /> 
 </div>
+<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 👨‍💻Portfólio(Site): https://gustavomichel.vercel.app/
+## 👨‍💻 Portfólio
+Visite meu site: [https://gustavomichel.vercel.app/](https://gustavomichel.vercel.app/)
 
-# 📞 Contatos:
-Celular: +55 (11) 99434-5046 <br>
-Email: Gustavomichelads@gmail.com
+## 📞 Contatos
+- 📱 Celular: +55 (11) 99434-5046
+- 📧 Email: Gustavomichelads@gmail.com
+- 💼 [LinkedIn](seu-linkedin)
 
+## 🔗 Links Adicionais
+- 📊 [Kaggle](seu-perfil-kaggle)
+- 🧪 Repositório antigo: [https://github.com/Gustavomichel](https://github.com/Gustavomichel)
 
-#
-Old repository: [https://github.com/Gustavomichel]
-
-[![](https://visitcount.itsvg.in/api?id=Gustavo-michel&icon=0&color=12)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Gustavo-michel&icon=0&color=12)
