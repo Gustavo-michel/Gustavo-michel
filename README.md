@@ -31,7 +31,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 👨‍💻 Portfólio
-site: [https://gustavomichel.vercel.app/](https://gustavomichel.vercel.app/)
+site: [https://gustavomichel.vercel.app/](https://gustavomichel.tech)
 
 ## 📞 Contatos
 - 📱 Telefone: +55 (11) 99434-5046
