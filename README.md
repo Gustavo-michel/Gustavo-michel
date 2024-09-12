@@ -34,7 +34,6 @@
 - **Website:** [gustavomichel.tech](https://gustavomichel.tech)
 
 ## 📞 Contatos
-- **Telefone:** +55 (11) 99434-5046
 - **Email:** Gustavomichelads@gmail.com
 - **LinkedIn:** [Gustavo Michel Araújo](https://www.linkedin.com/in/gustavo-michel-araujo/)
 
