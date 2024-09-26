@@ -38,8 +38,8 @@
 - **LinkedIn:** [Gustavo Michel Araújo](https://www.linkedin.com/in/gustavo-michel-araujo/)
 
 ## 🔗 Links Adicionais
-- 📊 **Kaggle:** [Gustavo Michel](https://www.kaggle.com/gustavomichel)
-- 🧪 **Repositório Antigo:** [Gustavo Michel no GitHub](https://github.com/Gustavomichel)
+- 📊  [**Kaggle**](https://www.kaggle.com/gustavomichel)
+- 🧪  [**Repositório Antigo**](https://github.com/Gustavomichel)
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Gustavo-michel&icon=0&color=12" alt="Visitor Count"/>
