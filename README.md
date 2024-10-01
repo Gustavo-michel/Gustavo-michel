@@ -31,7 +31,7 @@
 <br/>
 
 ## 👨‍💻 Portfólio
-- **Website:** [gustavomichel.tech](https://gustavomichel.tech)
+- **Site:** [gustavomichel.tech](https://gustavomichel.tech)
 
 ## 📞 Contatos
 - **Email:** Gustavomichelads@gmail.com
