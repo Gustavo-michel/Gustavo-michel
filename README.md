@@ -35,7 +35,7 @@
 
 ## 📞 Contatos
 - **Email:** Gustavomichelads@gmail.com
-- **LinkedIn:** [Gustavo Michel Araújo](https://www.linkedin.com/in/gustavo-michel-araujo/)
+- **LinkedIn:** [Gustavo Michel Araujo](https://www.linkedin.com/in/gustavo-michel-araujo/)
 
 ## 🔗 Links Adicionais
 - 📊  [**Kaggle**](https://www.kaggle.com/gustavomichel)
