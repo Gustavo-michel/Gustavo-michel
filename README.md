@@ -34,8 +34,9 @@
 - **Site:** [gustavomichel.tech](https://gustavomichel.tech)
 
 ## 📞 Contatos
-- **Email:** Gustavomichelads@gmail.com
-- **LinkedIn:** [Gustavo Michel Araujo](https://www.linkedin.com/in/gustavo-michel-araujo/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-michel/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gustavomichelads@gmail.com)
+
 
 ## 🔗 Links Adicionais
 - 📊  [**Kaggle**](https://www.kaggle.com/gustavomichel)
