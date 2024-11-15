@@ -30,8 +30,8 @@
 
 <br/>
 
-## 👨‍💻 Portfólio
-- **Site:** [gustavomichel.tech](https://gustavomichel.tech)
+## 👨‍💻 Portfólio (Gustavomichel.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://gustavomichel.tech)
 
 ## 📞 Contatos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-michel/)
@@ -39,8 +39,9 @@
 
 
 ## 🔗 Links Adicionais
-- 📊  [**Kaggle**](https://www.kaggle.com/gustavomichel)
-- 🧪  [**Repositório Antigo**](https://github.com/Gustavomichel)
+[![**Kaggle**](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gustavomichel)
+
+🧪  [**Repositório Antigo**](https://github.com/Gustavomichel)
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Gustavo-michel&icon=0&color=12" alt="Visitor Count"/>
