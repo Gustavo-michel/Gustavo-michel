@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&exclude_repo=Jupyter+Notebook" alt="Gustavo-michel's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook" alt="Gustavo-michel's Top Languages"/>
 </p>
 
 ## 💻 Tecnologias
