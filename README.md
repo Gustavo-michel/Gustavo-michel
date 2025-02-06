@@ -42,6 +42,3 @@
 [![**Kaggle**](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gustavomichel)
 
 🧪  [**Repositório Antigo**](https://github.com/Gustavomichel)
-
-
-  ![Visitor Count](https://profile-counter.glitch.me/{Gustavo-michel}/count.svg)
