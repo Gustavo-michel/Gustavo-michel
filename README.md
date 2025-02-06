@@ -43,6 +43,5 @@
 
 🧪  [**Repositório Antigo**](https://github.com/Gustavomichel)
 
-<p align="center">
+
   ![Visitor Count](https://profile-counter.glitch.me/{Gustavo-michel}/count.svg)
-</p>
