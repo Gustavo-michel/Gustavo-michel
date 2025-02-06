@@ -44,5 +44,5 @@
 🧪  [**Repositório Antigo**](https://github.com/Gustavomichel)
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Gustavo-michel&icon=0&color=12" alt="Visitor Count"/>
+  ![Visitor Count](https://profile-counter.glitch.me/{Gustavo-michel}/count.svg)
 </p>
