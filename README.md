@@ -3,7 +3,20 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook" alt="Gustavo-michel's Top Languages"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=default&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=default&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook" 
+      alt="Gustavo-michel's Top Languages" 
+    />
+  </picture>
 </p>
 
 ## 💻 Tecnologias
