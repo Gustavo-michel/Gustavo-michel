@@ -47,7 +47,5 @@
 
 
 ## 🔗 Links Adicionais
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://gustavomichel.tech)
-[![**Kaggle**](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gustavomichel)
-
-🧪  [**Repositório Antigo**](https://github.com/Gustavomichel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://gustavomichel.com)
+[![**Kaggle**](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gustavomichel) 🧪 [**Repositório Antigo**](https://github.com/Gustavomichel)
