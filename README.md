@@ -39,13 +39,15 @@
 
 <br/>
 
-
-
-## 📞 Contatos
+## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-michel-araujo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gustavomichelads@gmail.com)
-
-
-## 🔗 Links Adicionais
+[![Repositório Antigo](https://github.com/user-attachments/assets/3bb55a8d-f491-4e12-bbf4-1b434e000c24)](https://github.com/gustavomichel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://gustavomichel.com)
-[![**Kaggle**](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gustavomichel) 🧪 [**Repositório Antigo**](https://github.com/Gustavomichel)
+[![**Kaggle**](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gustavomichel)
+
+<div align="center">
+
+# 📌 Confira os projetos fixados!
+
+</div>
