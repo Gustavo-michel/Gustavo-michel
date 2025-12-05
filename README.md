@@ -5,19 +5,20 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=default&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavo-michel&theme=default" 
       media="(prefers-color-scheme: light)" 
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavo-michel&theme=tokyonight" 
       media="(prefers-color-scheme: dark)" 
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-michel&theme=default&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook" 
-      alt="Gustavo-michel's Top Languages" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavo-michel&theme=default" 
+      alt="Linguagens mais usadas no GitHub de Gustavo-michel" 
     />
   </picture>
 </p>
+
 
 ## 💻 Tecnologias
 <div align="center">
