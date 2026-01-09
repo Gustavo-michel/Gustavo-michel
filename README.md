@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source 
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavo-michel&theme=default" 
@@ -17,7 +17,7 @@
       alt="Linguagens mais usadas no GitHub de Gustavo-michel" 
     />
   </picture>
-</p>
+</p> -->
 
 
 ## 💻 Tecnologias
